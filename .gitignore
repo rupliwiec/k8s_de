@@ -2,3 +2,4 @@
 dashboard-adminuser.yaml
 dashboard-clusterrole.yaml
 dashboard-secret.yaml
+token.txt
